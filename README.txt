@@ -1,5 +1,5 @@
-1 NYU Workshop Example
-2
- 2/18/2015
+NYU Workshop Example
 
-3 Zhuang Xiong
+2/18/2015 date
+
+Zhuang Xiong
